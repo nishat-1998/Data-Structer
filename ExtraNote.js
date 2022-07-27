@@ -1,5 +1,5 @@
-
-// Big O Notaion
+// Time Complexcity
+// Big O Notation
 
    // Big O(n) -- (5n+2)
 
@@ -33,7 +33,7 @@ sumAll(n){
    
    multipleArray(5)
 
-// Big O(3)---(n+3)
+// Big O(n)---(n+3)
 
 function multipleArray(n) {
     for (let i = 0; i <= n; i++){
